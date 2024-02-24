@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb
